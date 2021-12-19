@@ -1,6 +1,4 @@
-beleş vds aga çok iyi demi? 🤙
-
-`Ewing-VDS Nasıl Kurulur?`Cancel changes
+`Bedava-VDS Nasıl Kurulur?`Cancel changes
 
 ### NASIL OLUŞTURULURUM
 ```
