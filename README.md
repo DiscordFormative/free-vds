@@ -1,4 +1,4 @@
-`Bedava-VDS Nasıl Kurulur?`Cancel changes
+`Bedava-VDS Nasıl Kurulur?`
 
 ### NASIL OLUŞTURULURUM
 ```
